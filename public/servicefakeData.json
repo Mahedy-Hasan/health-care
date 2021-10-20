@@ -1,0 +1,50 @@
+  [
+    {
+        "id": 1,
+        "name": "Mr.David",
+        "degree": "MBBS, FCPS",
+        "specialist": "Medicine",
+        "description": "He or She is one of the famous doctor in the world. Very useful to and familiar to the doctor society. ",
+        "img": "https://i.ibb.co/t3rNjbN/dr2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mrs.Michel Faradey",
+        "degree": "MBBS,  DFEO, SRDP",
+        "specialist": "Medicine",
+        "description": "He or She is one of the famous doctor in the world. Very useful to and familiar to the doctor society. ",
+        "img": "https://i.ibb.co/X5VGSbN/dr3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mr.Issac Bristol",
+        "degree": "MBBS, FCPS, RMPS",
+        "specialist": "Surgery",
+        "description": "He or She is one of the famous doctor in the world. Very useful to and familiar to the doctor society. ",
+        "img": "https://i.ibb.co/tmPjKs4/dr4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mr.Rassel",
+        "degree": "MBBS, MD , MPhil",
+        "specialist": "Cardiology",
+        "description": "He or She is one of the famous doctor in the world. Very useful to and familiar to the doctor society. ",
+        "img": "https://i.ibb.co/YfPQj5J/dr5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mrs.Anethenio Albes",
+        "degree": "MBBS, FCPS",
+        "specialist": "Gyne and Obs",
+        "description": "He or She is one of the famous doctor in the world. Very useful to and familiar to the doctor society. ",
+        "img": "https://i.ibb.co/XZ8hVJL/Close-up-portrait-of-a-smiling-middle-aged-doctor-in-lab-coat-with-stethoscope-around-his-neck-Horiz.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mr.David",
+        "degree": "MBBS, FCPS, FRCS",
+        "specialist": "Child and Adult Health",
+        "description": "He or She is one of the famous doctor in the world. Very useful to and familiar to the doctor society. ",
+        "img": "https://i.ibb.co/7b3LG9r/dr1.jpg"
+    }
+]
